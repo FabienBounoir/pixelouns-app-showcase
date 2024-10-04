@@ -1,0 +1,16 @@
+:root{
+      --color-principal: #cc3fef;
+  --color-principal-hover: #8f00a8;
+
+  --color-red: 239;
+  --color-green: 63;
+  --color-blue: 63;
+
+  --back-first-color: #0f0f10;
+  --back-second-color: #202225;
+  --back-html-color: #0f0f10;
+}
+
+body{
+  margin: 0;
+}
